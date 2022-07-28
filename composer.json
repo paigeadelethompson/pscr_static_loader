@@ -1,6 +1,9 @@
 {
-    "name": "netcrave/pscr_static_loader",
+    "name": "paigeadelethompson/pscr_static_loader",
     "type": "library",
+     "license": [
+       "GPL-3.0-or-later"
+    ],
     "autoload": {
         "psr-4": {
             "pscr\\extensions\\static_loader\\": "extensions/static_loader/"
